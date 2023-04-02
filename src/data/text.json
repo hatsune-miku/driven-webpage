@@ -1,0 +1,75 @@
+{
+  "text": [
+    {
+      "title": "Our Will",
+      "body": [
+        {
+          "style": "markdown",
+          "text": "We aim to expand the North America land transport network while improving efficiency and reducing carbon footprint. By meeting the "
+        },
+        {
+          "style": "soft",
+          "text": "core interests of all parties involved"
+        },
+        {
+          "style": "markdown",
+          "text": ", including the shipper, truck driver, and receiver, we can achieve higher transportation efficiency and benefit all stakeholders."
+        }
+      ]
+    },
+    {
+      "special": "low-carbon",
+      "title": "Reduce Carbon Footprint",
+      "body": [
+        {
+          "style": "markdown",
+          "text": "This innovative solution allows drivers to"
+        },
+        {
+          "style": "soft",
+          "text": "transport multiple orders at once"
+        },
+        {
+          "style": "markdown",
+          "text": ", resulting in "
+        },
+        {
+          "style": "soft",
+          "text": "increased earnings per trip"
+        },
+        {
+          "style": "markdown",
+          "text": ". Additionally, shipping companies can now easily match with available drivers"
+        },
+        {
+          "style": "soft",
+          "text": "saving time and increasing efficiency"
+        },
+        {
+          "style": "markdown",
+          "text": "."
+        }
+      ]
+    }
+  ],
+  "benefits": [
+    {
+      "title": "Buyers, Suppliers and Drivers",
+      "body": [
+        {
+          "style": "markdown",
+          "text": "Drivers' Benefits:\n- Drivers can directly connect with shippers, eliminating exorbitant intermediary fees.\n- Increased opportunities and attainment of remuneration aligned with expectations.\n- Intelligent matching, generating higher revenue through optimized routing and order allocation.\n\nSuppliers' Benefits:\n- Access to a wider selection of top-rated, high-performing drivers.\n- No additional overhead, leading to reduced operational expenses.\n- Monitoring of freight logistics details, ensuring secure and reliable transportation."
+        }
+      ]
+    },
+    {
+      "title": "Outcomes",
+      "body": [
+        {
+          "style": "markdown",
+          "text": "- Reduce the number of shipping trips (reduce carbon footprint, improve transportation efficiency).\n- Truck drivers can pay less commission to middlemen (for example, from 10% to 5%).\n- Shippers have more choices and don't have to pay extra.\n- Shippers can view driver evaluations (to ensure the safety of goods)."
+        }
+      ]
+    }
+  ]
+}
